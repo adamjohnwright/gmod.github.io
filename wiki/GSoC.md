@@ -110,8 +110,8 @@ class="external text" rel="nofollow">FAQ</a>.
   class="external text" rel="nofollow">Genome Informatics Google
   Groups</a> - ask about our projects; join the community!
 - Students and Mentors can email both
-  [Robin](User%253ARobin.haw "User%253ARobin.haw") and
-  [Scott](User%253AScott "User%253AScott") to get more information about the
+  [Robin](rhaw@oicr.on.ca) and
+  [Adam](awright@oicr.on.ca) to get more information about the
   program.
 
 ## <span id="Project_Ideas" class="mw-headline"> [Project Ideas](GSOC_Project_Ideas_2026 "GSOC Project Ideas 2026")</span>
