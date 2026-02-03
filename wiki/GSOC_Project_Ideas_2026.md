@@ -107,8 +107,28 @@ self-motivation are great traits for open-source programmers.
 - *Knowledge prerequisites:* Python, RAG
 - *Skill level:* Medium
 - *Project Time:* 175-hour approximately 8 weeks
-- *Mentors:* Adam Wright \<adam.wright@oicr.on.ca\>, Wei Jiao
-  \<wei.jiao@oicr.on.ca\>
+- *Mentors:* Adam Wright \<adam.wright@oicr.on.ca\>
+
+
+## <span id="Reactome-MCP_.2F_Stein_Lab" class="mw-headline">Reactome MCP / Stein Lab</span>
+
+- *Brief explanation:* Reactome provides users with various computational
+  interfaces for computationally accessing the curated biological pathways,
+  including analysis tools and a chat interface React-to-Me. A Reactome MCP would
+  make the website more computationally accessible by providing access to the tools
+  through React-to-Me and other LLM based chat interfaces. 
+- *Expected results:* expected outcomes include the application's
+  ability to run Reactome analysis tools through the React-to-Me chat interface.
+  Other features of Reactome, including our REST APIs, should be made accessible
+  to LLMs through the MCP. 
+- *Project Home Page URL:*
+  <a href="https://reactome.org/chat" class="external text"
+  rel="nofollow">React-to-Me</a>
+- *Project paper reference and URL:*
+- *Knowledge prerequisites:* Python, RAG, MCP
+- *Skill level:* Medium
+- *Project Time:* 175-hour approximately 8 weeks
+- *Mentors:* Adam Wright \<adam.wright@oicr.on.ca\>
 
 # <span id="Project_template" class="mw-headline">Project template</span>
 
