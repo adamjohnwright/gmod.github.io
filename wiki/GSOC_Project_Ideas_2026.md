@@ -21,8 +21,8 @@
 Then please post it. You can either
 
 1.  Add it here, by directly editing this page. Just copy, paste and
-    update the [template](#Template) below. This requires that you have
-    or create a GMOD.org login.
+    update the [template](#Template) below. This requires that you create
+    a fork of this repo and then make a pull request with the changes.
 
 Projects can use a broad set of skills, technologies, and domains, such
 as GUIs, database integration and algorithms.
@@ -31,30 +31,9 @@ Students are also encouraged to propose their own ideas related to our
 projects. If you have strong computer skills and have an interest in
 biology or bioinformatics, you should definitely apply! Do not hesitate
 to propose your own project idea: some of the best applications we see
-are by students that go this route. As long as it is relevant to one of
+are by students who go this route. As long as it is relevant to one of
 our projects, we will give it serious consideration. Creativity and
 self-motivation are great traits for open-source programmers.
-
-  
-
-
-## Contents
-
-
-
-- [<span class="tocnumber">1</span> <span class="toctext">Proposed
-  project ideas for 2026</span>](#Proposed_project_ideas_for_2026)
-  - [<span class="tocnumber">1.1</span> <span class="toctext">MP-BioPath
-    Perturation Analysis / Stein
-    Lab</span>](#MP-BioPath_Perturation_Analysis_.2F_Stein_Lab)
-  - [<span class="tocnumber">1.2</span> <span class="toctext">Pathway
-    Reasoning with LLM / Stein
-    Lab</span>](#Pathway_Reasoning_with_LLM_.2F_Stein_Lab)
-- [<span class="tocnumber">2</span> <span class="toctext">Project
-  template</span>](#Project_template)
-  - [<span class="tocnumber">2.1</span> <span class="toctext">Template:
-    Project Idea Name (Project Name/Lab
-    Name)</span>](#Template:_Project_Idea_Name_.28Project_Name.2FLab_Name.29)
 
 
 
